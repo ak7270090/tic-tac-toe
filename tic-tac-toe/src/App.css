@@ -1,0 +1,35 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing:border-box;
+}
+
+.App{
+  text-align: center;
+}
+.block{
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  background-color: white;
+  background-size: cover;
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+.block:hover{
+  cursor:pointer ;
+}
+
+.mark1{
+  background-image: url('dot.png');
+
+}
+
+.mark2{
+  background-image: url('cross.png');
+
+}

@@ -1,0 +1,6 @@
+block{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border-color: aqua;
+}
